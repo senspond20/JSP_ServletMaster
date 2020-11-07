@@ -3,13 +3,14 @@
 + Open JDK11 / Apache Tomcat 8.5
 + 이클립스 IDE
 
-<img src ="./imgformark/01.png" />
+<img src ="./imgformark/01.png" width ="400px"/>
 
-<img src ="./imgformark/02.png" />
+<img src ="./imgformark/02.png" width ="400px"/>
 
-<img src ="./imgformark/03.png" />
+<img src ="./imgformark/03.png" width ="400px"/>
 
-<img src ="./imgformark/04.png" />
++ Maven 프로젝트로 변경
+<img src ="./imgformark/04.png" width ="400px"/>
 
 ```xml
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
