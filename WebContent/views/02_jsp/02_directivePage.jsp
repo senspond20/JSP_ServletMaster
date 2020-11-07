@@ -1,14 +1,14 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="EUC-KR" import="java.util.*" errorPage="error/error.jsp"%>
+    pageEncoding="UTF-8" import="java.util.*" errorPage="error/error.jsp"%>
 <%--  <%@ page import="java.util.ArrayList" %> --%>
 <%--
-	page Áö½Ã¾î : ÇöÀç JSPÆäÀÌÁö¸¦ ÄÁÅ×ÀÌ³Ê¿¡¼­ Ã³¸®ÇÏ´Âµ¥ ÇÊ¿äÇÑ °¢Á¾ ¼Ó¼ºÀ» ±â¼úÇÏ´Â ºÎºĞ
+	page ì§€ì‹œì–´ : í˜„ì¬ JSPí˜ì´ì§€ë¥¼ ì»¨í…Œì´ë„ˆì—ì„œ ì²˜ë¦¬í•˜ëŠ”ë° í•„ìš”í•œ ê°ì¢… ì†ì„±ì„ ê¸°ìˆ í•˜ëŠ” ë¶€ë¶„
  --%>   
     
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="EUC-KR">
+<meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
 <body>
