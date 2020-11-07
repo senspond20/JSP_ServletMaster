@@ -7,6 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<%@include file = "./views/home.jsp" %>
+
+<ul>
+	<li><a href = "<%=request.getContextPath() %>/Servlet.ho">01_Servlet</a></li>
+	<li><a href = "./JSP.ho">02_JSP</a></li>
+</ul>
+
 </body>
 </html>
